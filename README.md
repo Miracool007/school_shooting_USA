@@ -17,7 +17,7 @@ Also of all the states attacked, Texas recorded the highest number or suspect ar
 
 ![arrest_per_state](https://github.com/Miracool007/school_shooting_USA/assets/150830858/90da17b7-52e0-4333-96bd-acb5a7dc6b3a)
 
-As I dug further, I decided to find which season and which month recorded the highest attack. Fall was the season with the highest attack with the month of may recording the highest casualities
+As I dug further, I decided to find which season and which month recorded the highest attack. Fall was the season with the highest attack followed by Spring, with the month of May recording the highest casualities
 
 ![vic_per_season](https://github.com/Miracool007/school_shooting_USA/assets/150830858/5a7793c6-431d-4686-9654-763126291028)
 
