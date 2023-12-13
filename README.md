@@ -1,4 +1,4 @@
-# school_shooting_USA
+# School_Shooting_USA
 This project is one which I find interesting and decided to work on. It is the data of all school shootings that occured in the United States through out year 2022. The dataset used was downloaded from Kaggle (an online platform with numerous dataset).
 
 ## Project Findings
@@ -23,6 +23,9 @@ As I dug further, I decided to find which season and which month recorded the hi
 
 ![vic_per_month](https://github.com/Miracool007/school_shooting_USA/assets/150830858/bdecec0c-e409-4d80-8a46-1183317d42a1)
 
-##
+## Recommendations
+1. Adequate security should be setup within and around every school premise. Periodic patrol should be done the Police so as to enable quick response to emergencies
+2. Students should taught safety measures and precautions to be taken when under attack. Techniques like lying down and remaining on the floor when under attack, and also strategic places to hide when the school is under attack
+3. Firearm policies should be reviewed especially in states like Texas and Florida, so as to enforce stricter measures before owning a firearm
 
 
